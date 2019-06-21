@@ -1,0 +1,23 @@
+{
+  "name": "contestbot",
+  "version": "1.0.0",
+  "description": "A bot I made for servers to hold art contest. Allows for file submissions to be verified before public submissions, and a leaderboard. Has crash/restart re-caching for Votes/Non-Verified Submissions.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatGuyJustin/ContestBot.git"
+  },
+  "author": "ThatGuyJustin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThatGuyJustin/ContestBot/issues"
+  },
+  "homepage": "https://github.com/ThatGuyJustin/ContestBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "sqlite3": "^4.0.9"
+  }
+}

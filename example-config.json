@@ -1,0 +1,13 @@
+{
+    "discord": {
+        "token": "TOKEN_GOES_HERE",
+        "verification_channel": "CHANNEL_ID",
+        "submissions_channel": "CHANNEL_ID",
+        "prefix": "cb!",
+        "can_verify": ["ROLE_ID", "ROLE_ID"],
+        "bot_cmd_channels": ["CHANNEL_ID", "CHANNEL_ID"],
+        "guild_id": "SERVER_ID"
+    },
+    "end_date": "2019-06-20",
+    "leaderboard_title": "Contest Leaderboard"
+}
